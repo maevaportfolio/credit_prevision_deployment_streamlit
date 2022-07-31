@@ -3,10 +3,10 @@ Automatisez le processus d'éligibilité au prêt en fonction des données du cl
 
 # Pré-requis
 
-Python
-Pandas
-Scikit-Learn
-Streamlit
+* Python
+* Pandas
+* Scikit-Learn
+* Streamlit
 
 
 
